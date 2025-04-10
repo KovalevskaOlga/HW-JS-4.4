@@ -1,0 +1,20 @@
+{
+  "name": "hw-js-4.4",
+  "version": "1.0.0",
+  "description": "start test project ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KovalevskaOlga/HW-JS-4.4.git"
+  },
+  "author": "kovalevska olha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KovalevskaOlga/HW-JS-4.4/issues"
+  },
+  "homepage": "https://github.com/KovalevskaOlga/HW-JS-4.4#readme"
+}
